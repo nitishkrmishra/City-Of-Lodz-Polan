@@ -1,1 +1,2 @@
-# City-Of-Lodz-Polan
+# City-Of-Lodz-Polan Project
+end to end 
