@@ -8,6 +8,6 @@ end to end delivery
     <title>Document</title>
 </head>
 <body>
-    Congratulation this is first Github code By Anupam Singh
+    Congratulation this is first Github code By Anupam
 </body>
 </html>
