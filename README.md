@@ -9,6 +9,5 @@ end to end delivery
 </head>
 <body>
     Congratulation this is first Github code By nitish kumar mishra
-    congrsats
 </body>
 </html>
