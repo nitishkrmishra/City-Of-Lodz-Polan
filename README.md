@@ -8,6 +8,6 @@ end to end delivery
     <title>Document</title>
 </head>
 <body>
-    Congratulation this is first Github code By nitish mishra
+    Congratulation this is first Github code By nitish
 </body>
 </html>
