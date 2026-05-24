@@ -8,9 +8,7 @@ end to end delivery
     <title>Document</title>
 </head>
 <body>
-    Congratulation this is first Github code By Abhishek Singh
-
-    nitish k mishra
+    Congratulation this is first Github code By nitish kumar mishra
     congrsats
 </body>
 </html>
